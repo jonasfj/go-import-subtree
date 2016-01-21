@@ -4,7 +4,7 @@ Golang Import Sub-tree
 The `go-import-subtree` utility is designed to be used with `go generate` to
 import all packages in a sub-folder for side-effect imports.
 
-Using [github.com/progrium/go-extpoints https://github.com/progrium/go-extpoints]
+Using [github.com/progrium/go-extpoints](https://github.com/progrium/go-extpoints)
 you can have a project with a `plugins/` folder, where plugins register
 themselves using go-extpoints as a side-effect of being imported.
 
